@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 36ccd53052461fd489844a6803892b1d
+timeCreated: 1457991067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Asa_Dir_A_jnt
+    100002: Asa_Dir_B_jnt
+    100004: Asa_Dir_C_jnt
+    100006: Asa_Dir_D_jnt
+    100008: Asa_Dir_E_Fim_jnt
+    100010: Asa_Dir_F_Fim_jnt
+    100012: Asa_Dir_F_jnt
+    100014: Asa_Dir_G_jnt
+    100016: Asa_Dir_H_Fim_jnt
+    100018: Asa_Esq_A_jnt
+    100020: Asa_Esq_B_jnt
+    100022: Asa_Esq_C_jnt
+    100024: Asa_Esq_D_jnt
+    100026: Asa_Esq_E_Fim_jnt
+    100028: Asa_Esq_F_Fim_jnt
+    100030: Asa_Esq_F_jnt
+    100032: Asa_Esq_G_jnt
+    100034: Asa_Esq_H_Fim_jnt
+    100036: Bacia_B_jnt
+    100038: Braco_Dir_A_jnt
+    100040: Braco_Dir_B_jnt
+    100042: Braco_Dir_C_jnt
+    100044: Braco_Esq_A_jnt
+    100046: Braco_Esq_B_jnt
+    100048: Braco_Esq_C_jnt
+    100050: Cabeca_A_jnt
+    100052: Cabeca_B_jnt
+    100054: Cabeca_C_jnt
+    100056: COG
+    100058: Coluna_A_jnt
+    100060: Coluna_B_jnt
+    100062: Coluna_C_jnt
+    100064: Dedao_Dir_A_jnt
+    100066: Dedao_Esq_A_jnt
+    100068: Dedap_Dir_Fim_jnt
+    100070: Dedap_Esq_Fim_jnt
+    100072: Dedos_Dir_A_jnt
+    100074: Dedos_Dir_B_jnt
+    100076: Dedos_Dir_Fim_jnt
+    100078: Dedos_Esq_A_jnt
+    100080: Dedos_Esq_B_jnt
+    100082: Dedos_Esq_Fim_jnt
+    100084: joint1
+    100086: //RootNode
+    100088: Mao_Dir_jnt
+    100090: Mao_Esq_jnt
+    100092: Ombro_Dir_jnt
+    100094: Ombro_Esq_jnt
+    100096: pCube6
+    100098: Pe_Dir_A_jnt
+    100100: Pe_Dir_B_jnt
+    100102: Pe_Dir_Fim_jnt
+    100104: Pe_Esq_A_jnt
+    100106: Pe_Esq_B_jnt
+    100108: Pe_Esq_Fim_jnt
+    100110: Perna_Dir_A_jnt
+    100112: Perna_Dir_B_jnt
+    100114: Perna_Esq_A_jnt
+    100116: Perna_Esq_B_jnt
+    100118: Pescoco_jnt
+    100120: Tentaculo_Dir_A_jnt
+    100122: Tentaculo_Dir_B_jnt
+    100124: Tentaculo_Dir_C_Fim_jnt
+    100126: Tentaculo_Esq_A_jnt
+    100128: Tentaculo_Esq_B_jnt
+    100130: Tentaculo_Esq_C_Fim_jnt
+    100132: Tentaculo_Meio_A_jnt
+    100134: Tentaculo_Meio_B_jnt
+    100136: Tentaculo_Meio_C_Fim_jnt
+    400000: Asa_Dir_A_jnt
+    400002: Asa_Dir_B_jnt
+    400004: Asa_Dir_C_jnt
+    400006: Asa_Dir_D_jnt
+    400008: Asa_Dir_E_Fim_jnt
+    400010: Asa_Dir_F_Fim_jnt
+    400012: Asa_Dir_F_jnt
+    400014: Asa_Dir_G_jnt
+    400016: Asa_Dir_H_Fim_jnt
+    400018: Asa_Esq_A_jnt
+    400020: Asa_Esq_B_jnt
+    400022: Asa_Esq_C_jnt
+    400024: Asa_Esq_D_jnt
+    400026: Asa_Esq_E_Fim_jnt
+    400028: Asa_Esq_F_Fim_jnt
+    400030: Asa_Esq_F_jnt
+    400032: Asa_Esq_G_jnt
+    400034: Asa_Esq_H_Fim_jnt
+    400036: Bacia_B_jnt
+    400038: Braco_Dir_A_jnt
+    400040: Braco_Dir_B_jnt
+    400042: Braco_Dir_C_jnt
+    400044: Braco_Esq_A_jnt
+    400046: Braco_Esq_B_jnt
+    400048: Braco_Esq_C_jnt
+    400050: Cabeca_A_jnt
+    400052: Cabeca_B_jnt
+    400054: Cabeca_C_jnt
+    400056: COG
+    400058: Coluna_A_jnt
+    400060: Coluna_B_jnt
+    400062: Coluna_C_jnt
+    400064: Dedao_Dir_A_jnt
+    400066: Dedao_Esq_A_jnt
+    400068: Dedap_Dir_Fim_jnt
+    400070: Dedap_Esq_Fim_jnt
+    400072: Dedos_Dir_A_jnt
+    400074: Dedos_Dir_B_jnt
+    400076: Dedos_Dir_Fim_jnt
+    400078: Dedos_Esq_A_jnt
+    400080: Dedos_Esq_B_jnt
+    400082: Dedos_Esq_Fim_jnt
+    400084: joint1
+    400086: //RootNode
+    400088: Mao_Dir_jnt
+    400090: Mao_Esq_jnt
+    400092: Ombro_Dir_jnt
+    400094: Ombro_Esq_jnt
+    400096: pCube6
+    400098: Pe_Dir_A_jnt
+    400100: Pe_Dir_B_jnt
+    400102: Pe_Dir_Fim_jnt
+    400104: Pe_Esq_A_jnt
+    400106: Pe_Esq_B_jnt
+    400108: Pe_Esq_Fim_jnt
+    400110: Perna_Dir_A_jnt
+    400112: Perna_Dir_B_jnt
+    400114: Perna_Esq_A_jnt
+    400116: Perna_Esq_B_jnt
+    400118: Pescoco_jnt
+    400120: Tentaculo_Dir_A_jnt
+    400122: Tentaculo_Dir_B_jnt
+    400124: Tentaculo_Dir_C_Fim_jnt
+    400126: Tentaculo_Esq_A_jnt
+    400128: Tentaculo_Esq_B_jnt
+    400130: Tentaculo_Esq_C_Fim_jnt
+    400132: Tentaculo_Meio_A_jnt
+    400134: Tentaculo_Meio_B_jnt
+    400136: Tentaculo_Meio_C_Fim_jnt
+    4300000: pCube6
+    9500000: //RootNode
+    13700000: pCube6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

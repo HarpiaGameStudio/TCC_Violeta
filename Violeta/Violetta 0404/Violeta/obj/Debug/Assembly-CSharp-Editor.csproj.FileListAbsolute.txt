@@ -1,0 +1,220 @@
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\ShaderForge.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Driika\Documents\Violeta\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Driika\Documents\Violeta\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Documents\Violeta\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Documents\Violeta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\ShaderForge.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Murilo Sanches\Desktop\Violeta\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Murilo Sanches\Desktop\Violeta\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Murilo Sanches\Desktop\Violeta\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\ShaderForge.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Driika\Desktop\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Driika\Desktop\Violeta\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Driika\Desktop\Violeta\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Desktop\Violeta\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\ShaderForge.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Desktop\HarpiaRepository\HarpiaRepository\Violeta\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\ShaderForge.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Musanches\Desktop\Violetta 0404\Violeta\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\ShaderForge.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Driika\Desktop\Violeta\Violetta 0404\Violeta\obj\Debug\Assembly-CSharp-Editor.pdb

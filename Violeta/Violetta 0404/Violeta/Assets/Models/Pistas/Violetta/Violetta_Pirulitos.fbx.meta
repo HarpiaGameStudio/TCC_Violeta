@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: b8260029a7d781f47a47020030697d92
+timeCreated: 1459195280
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: assets:group1
+    100002: Assets_Violeta:_UNKNOWN_REF_NODE_fosterParent1
+    100004: group17
+    100006: Violetta_ArvoreBengala_4
+    100008: Violetta_Bengala_1
+    100010: Violetta_EspetoDoce_2
+    100012: Violetta_PirulitoBola_HG_1
+    100014: Violetta_PirulitoBola_L_1
+    100016: Violetta_PirulitoCoracao_HG_5
+    100018: Violetta_PirulitoCoracao_L_1
+    100020: Violetta_PirulitoRedondo_HG_1
+    100022: Violetta_PirulitoRedondo_L_1
+    100024: //RootNode
+    400000: assets:group1
+    400002: Assets_Violeta:_UNKNOWN_REF_NODE_fosterParent1
+    400004: group17
+    400006: Violetta_ArvoreBengala_4
+    400008: Violetta_Bengala_1
+    400010: Violetta_EspetoDoce_2
+    400012: Violetta_PirulitoBola_HG_1
+    400014: Violetta_PirulitoBola_L_1
+    400016: Violetta_PirulitoCoracao_HG_5
+    400018: Violetta_PirulitoCoracao_L_1
+    400020: Violetta_PirulitoRedondo_HG_1
+    400022: Violetta_PirulitoRedondo_L_1
+    400024: //RootNode
+    2300000: Violetta_ArvoreBengala_4
+    2300002: Violetta_Bengala_1
+    2300004: Violetta_EspetoDoce_2
+    2300006: Violetta_PirulitoBola_HG_1
+    2300008: Violetta_PirulitoBola_L_1
+    2300010: Violetta_PirulitoCoracao_HG_5
+    2300012: Violetta_PirulitoCoracao_L_1
+    2300014: Violetta_PirulitoRedondo_HG_1
+    2300016: Violetta_PirulitoRedondo_L_1
+    3300000: Violetta_ArvoreBengala_4
+    3300002: Violetta_Bengala_1
+    3300004: Violetta_EspetoDoce_2
+    3300006: Violetta_PirulitoBola_HG_1
+    3300008: Violetta_PirulitoBola_L_1
+    3300010: Violetta_PirulitoCoracao_HG_5
+    3300012: Violetta_PirulitoCoracao_L_1
+    3300014: Violetta_PirulitoRedondo_HG_1
+    3300016: Violetta_PirulitoRedondo_L_1
+    4300000: Violetta_Bengala_1
+    4300002: Violetta_PirulitoBola_L_1
+    4300004: Violetta_PirulitoBola_HG_1
+    4300006: Violetta_PirulitoRedondo_L_1
+    4300008: Violetta_PirulitoRedondo_HG_1
+    4300010: Violetta_EspetoDoce_2
+    4300012: Violetta_PirulitoCoracao_HG_5
+    4300014: Violetta_ArvoreBengala_4
+    4300016: Violetta_PirulitoCoracao_L_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

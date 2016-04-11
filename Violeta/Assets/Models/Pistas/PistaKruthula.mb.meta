@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: efdb1bfd61e8a8444ad5a56400bab401
+timeCreated: 1453569083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barco
+    100002: Concha
+    100004: Concha1
+    100006: Concha2
+    100008: Coqueiro1
+    100010: Coqueiro2
+    100012: Coqueiro3
+    100014: Coqueiros
+    100016: EstrelaDoMar1
+    100018: EstrelaDoMar2
+    100020: EstrelaDoMar3
+    100022: EstrelaDoMar4
+    100024: EstrelaDoMar5
+    100026: Mastro1
+    100028: Mastro2
+    100030: Mastros
+    100032: pCylinder2
+    100034: Pista
+    100036: //RootNode
+    100038: polySurface3
+    100040: polySurface4
+    100042: Terreno
+    100044: Tunel
+    100046: Vara2
+    100048: Vara_1
+    100050: Varas
+    400000: Barco
+    400002: Concha
+    400004: Concha1
+    400006: Concha2
+    400008: Coqueiro1
+    400010: Coqueiro2
+    400012: Coqueiro3
+    400014: Coqueiros
+    400016: EstrelaDoMar1
+    400018: EstrelaDoMar2
+    400020: EstrelaDoMar3
+    400022: EstrelaDoMar4
+    400024: EstrelaDoMar5
+    400026: Mastro1
+    400028: Mastro2
+    400030: Mastros
+    400032: pCylinder2
+    400034: Pista
+    400036: //RootNode
+    400038: polySurface3
+    400040: polySurface4
+    400042: Terreno
+    400044: Tunel
+    400046: Vara2
+    400048: Vara_1
+    400050: Varas
+    2300000: Barco
+    2300002: Concha
+    2300004: Concha1
+    2300006: Concha2
+    2300008: Coqueiro1
+    2300010: Coqueiro2
+    2300012: Coqueiro3
+    2300014: EstrelaDoMar1
+    2300016: EstrelaDoMar2
+    2300018: EstrelaDoMar3
+    2300020: EstrelaDoMar4
+    2300022: EstrelaDoMar5
+    2300024: Mastro1
+    2300026: Mastro2
+    2300028: pCylinder2
+    2300030: Pista
+    2300032: polySurface3
+    2300034: polySurface4
+    2300036: Terreno
+    2300038: Tunel
+    2300040: Vara2
+    2300042: Vara_1
+    3300000: Barco
+    3300002: Concha
+    3300004: Concha1
+    3300006: Concha2
+    3300008: Coqueiro1
+    3300010: Coqueiro2
+    3300012: Coqueiro3
+    3300014: EstrelaDoMar1
+    3300016: EstrelaDoMar2
+    3300018: EstrelaDoMar3
+    3300020: EstrelaDoMar4
+    3300022: EstrelaDoMar5
+    3300024: Mastro1
+    3300026: Mastro2
+    3300028: pCylinder2
+    3300030: Pista
+    3300032: polySurface3
+    3300034: polySurface4
+    3300036: Terreno
+    3300038: Tunel
+    3300040: Vara2
+    3300042: Vara_1
+    4300000: Pista
+    4300002: Tunel
+    4300004: Terreno
+    4300006: EstrelaDoMar1
+    4300008: EstrelaDoMar2
+    4300010: EstrelaDoMar3
+    4300012: EstrelaDoMar4
+    4300014: Concha
+    4300016: Concha1
+    4300018: Concha2
+    4300020: EstrelaDoMar5
+    4300022: Barco
+    4300024: Vara_1
+    4300026: Vara2
+    4300028: Mastro2
+    4300030: Mastro1
+    4300032: Coqueiro3
+    4300034: Coqueiro1
+    4300036: Coqueiro2
+    4300038: pCylinder2
+    4300040: polySurface3
+    4300042: polySurface4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

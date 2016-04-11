@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Pista 7 - Doceria da Violeta.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: b13a8ac07a1257c47b4ce7c7ddb97d90
+timeCreated: 1459265055
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Eixo_X
+    100002: Eixo_Y
+    100004: Eixo_Z
+    100006: Esfera
+    100008: //RootNode
+    100010: "Interroga\xE7\xE3o"
+    400000: Eixo_X
+    400002: Eixo_Y
+    400004: Eixo_Z
+    400006: Esfera
+    400008: //RootNode
+    400010: "Interroga\xE7\xE3o"
+    2300000: Eixo_X
+    2300002: Eixo_Y
+    2300004: Eixo_Z
+    2300006: Esfera
+    2300008: "Interroga\xE7\xE3o"
+    3300000: Eixo_X
+    3300002: Eixo_Y
+    3300004: Eixo_Z
+    3300006: Esfera
+    3300008: "Interroga\xE7\xE3o"
+    4300000: Esfera
+    4300002: Eixo_Z
+    4300004: Eixo_Y
+    4300006: Eixo_X
+    4300008: "Interroga\xE7\xE3o"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
